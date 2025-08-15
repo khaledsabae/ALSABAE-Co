@@ -1,0 +1,36 @@
+
+{
+  "HomePage": {
+    "heroTitle": "Advanced AI Solutions for Engineering Project Management: Certified Expertise, Guaranteed Results",
+    "heroSubtitle": "Leverage advanced Gemini and OpenAI API applications with PMP® and RMP® expertise to reduce your project timelines by up to 15% and achieve full specification compliance",
+    "whyChooseUsTitle": "Why Choose Eng. Khaled Al-Sabae?",
+    "whyChooseUsSubtitle": "The unique combination of giant engineering experience and advanced artificial intelligence solutions to achieve exceptional results"
+  },
+  "ServicesPage": {
+    "title": "Our Services",
+    "subtitle": "We offer a wide range of services to help you with your projects."
+  },
+  "ProjectsPage": {
+    "title": "Our Projects",
+    "subtitle": "Here are some of our projects."
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "subtitle": "We are a company that specializes in..."
+  },
+  "BlogPage": {
+    "title": "Blog",
+    "subtitle": "Read our latest articles."
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us."
+  },
+  "LoginPage": {
+    "title": "Login",
+    "subtitle": "Enter your email below to login to your account",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login"
+  }
+}
